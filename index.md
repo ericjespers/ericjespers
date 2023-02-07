@@ -30,5 +30,16 @@ Communications in Contemporary Mathematics (2022) 2250064 (20 pages), DOI: 10.11
 
 6. F. Cedó, E. Jespers, J. Okninski, Primitive set-theoretic solutions of the Yang-Baxter equation, Communications in Contemporary Mathematics, Vol. 24, No. 09, 2150105 (2022).
 
+### 2021
+1. Eric Jespers, Wei-Liang  Sun,  Nilpotent decomposition in integral group rings. J. Algebra 575 (2021), 127--158.
+2. Andreas Bächle, Mauricio Caicedo, Eric Jespers and Sughanda Maheshwary, Global and local properties of finite groups with only finitely many central units in their integral group ring, J. Group Theory 24 (2021), no. 6, 1163--1188, DOI 10.1515/jgth-2020-0165.
+3. E. Jespers, L. Kubat, A. Van Antwerpen, L. Vendramin, Radical and weight of skew braces and their applications to structure groups of solutions of the Yang-Baxter equation, Advances in Mathematics 385 (2021), Paper No. 107767, 20 pp. 
+4. E. Jespers, Structure of group rings and the group of units of integral group rings: an invitation, Indian J. Pure Appl. Math. 52 (2021), no. 3, 687--708.  https://doi.org/10.1007/s13226-021-00179-5.
+5. F. Cedó, E. Jespers, C. Verwimp, Structure monoids of set-theoretic solutions of the Yang-Baxter equation,  Publ. Mat. 65 (2021), 499--528.
+6. F. Cedó, Eric Jespers and Jan Okninski, Every finite abelian group is a subgroup of the additive group of a finite simple left brace, J. Pure Appl. Algebra 225 (2021), no. 1, Paper No. 106476, 10 pp.
+7. F. Cedó, Eric Jespers and Jan Okninski, Set-theoretic solutions of the Yang--Baxter equation, associated quadratic algebras and the minimality condition,   Rev. Mat. Complut. 34 (2021), no. 1, 99--129. 
+
+
+
 
 ## Links 
