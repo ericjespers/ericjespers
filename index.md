@@ -54,7 +54,7 @@ Communications in Contemporary Mathematics (2022) 2250064 (20 pages), DOI: 10.11
 
 2. Eric Jespers, Lukasz Kubat and Arne Van Antwerpen,  Corrigendum and Addendum to ``The structure monoid and algebra of a non-degenerate set-theoretic solution of the Yang--Baxter equation'', Trans. Amer. Math. Soc. 373 (2020), 4517--4521. https://doi.org/10.1090/tran/8057.
 
-3. Ferran Cedó, Eric Jespers and Jan Okniński, An abundance of simple left braces with abelian multiplicative Sylow subgroups,  Rev. Mat. Iberoam. 36 (2020), no. 5, 1309?1332. 
+3. Ferran Cedó, Eric Jespers and Jan Okniński, An abundance of simple left braces with abelian multiplicative Sylow subgroups,  Rev. Mat. Iberoam. 36 (2020), no. 5, 1309--1332. 
 
 
 ### 2019
