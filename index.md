@@ -70,5 +70,21 @@ Communications in Contemporary Mathematics (2022) 2250064 (20 pages), DOI: 10.11
 5. David Bachiller, Ferran Cedó, Eric Jespers and Jan Okniński, Asymmetric product of left braces and simplicity; new solutions of the Yang-Baxter equation.  Commun. Contemp. Math. 21 (2019), no. 8, 1850042, 30 pp. ISSN (print): 0219-1997 | ISSN (online): 1793-6683.
 
 
+### 2018
+
+1. D. Bachiller, F. Cedó, E. Jespers, J. Okniński, Iterated matched products of finite braces and simplicity; new solutions of the Yang-Baxter
+equation, Transactions of the American Mathematical Society,  Trans. Amer. Math. Soc. 370 (2018), no. 7, 4881--4907. ISSN: 0002-9947 (print), 1088-6850 (electronic)
+
+
+### 2017 
+
+1. E. Jespers, M. Van Campenhout, Finitely generated algebras defined by homogeneous quadratic monomial relations and their underlying monoids II. J. Algebra 492 (2017), 524--546. ISSN: 0021-8693.
+
+2. D. Bachiller, F. Cedo, E. Jespers, J. Okninski, A family of irretractable square-free solutions of the Yang-Baxter equation, Forum Math.  29(6) (2017), 1291--1306. ISSN: 1435-5337.
+
+3. G. Janssens, E. Jespers, D. Temmerman, Free products in the unit group of the integral group ring of a finite group,  Proc. Amer. Math. Soc. 145 (2017), no. 7, 2771--2783.
+
+4.  A. Gordienko, G. Janssens, E. Jespers,  Semigroup graded algebras and  graded pi-exponent, Israel J. Math. 220 (2017), no. 1, 387--452.
+
 
 ## Links 
