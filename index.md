@@ -10,7 +10,7 @@ Brussel, Belgium
 * [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=94560)
 * [arXiv](https://arxiv.org/search/?searchtype=author&query=Jespers%2C+E)
 
-## Publications: papers
+## Recent Publications: papers
 
 ### 2023
 
