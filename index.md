@@ -51,8 +51,23 @@ Communications in Contemporary Mathematics (2022) 2250064 (20 pages), DOI: 10.11
 ### 2020
 
 1. I. Colazzo, E. Jespers, L. Kubat, Set-theoretic solutions of the Pentagon Equation,  Comm. Math. Phys. 380 (2020), no. 2, 1003--1024.
+
 2. Eric Jespers, Lukasz Kubat and Arne Van Antwerpen,  Corrigendum and Addendum to ``The structure monoid and algebra of a non-degenerate set-theoretic solution of the Yang--Baxter equation'', Trans. Amer. Math. Soc. 373 (2020), 4517--4521. https://doi.org/10.1090/tran/8057.
+
 3. Ferran Cedó, Eric Jespers and Jan Okniński, An abundance of simple left braces with abelian multiplicative Sylow subgroups,  Rev. Mat. Iberoam. 36 (2020), no. 5, 1309?1332. 
+
+
+### 2019
+
+1.  E. Jespers, L. Kubat, A. Van Antwerpen, L.Vendramin, Factorization of skew braces,  Math. Ann. 375 (2019), no. 3-4, 1649--1663.  ISSN: 0025-5831 (print), 1432-1807 (electronic)
+
+2.  Eric Jespers, Lukasz Kubat and Arne Van Antwerpen, The structure monoid and algebra of a non-degenerate set-theoretic solution of the Yang-Baxter equation,  Trans. Amer. Math. Soc. 372 (2019), no. 10, 7191--7223.
+
+3. Eric Jespers, David Riley and Mayada Shahada, On polynomials that are not quite an identity on an associative algebra,   Israel J. Math. 234 (2019), no. 1, 371--391. ISSN: 0021-2172 (print), 1565-8511 (electronic)
+
+4. E. Jespers and  A. Van Antwerpen, Left semi-braces and solutions to the Yang--Baxter equation,	Forum Math. (2019) (31), 241--263, https://doi.org/10.1514/forum--2018--0039, ISSN: 1435-5337.
+
+5. David Bachiller, Ferran Cedó, Eric Jespers and Jan Okniński, Asymmetric product of left braces and simplicity; new solutions of the Yang-Baxter equation.  Commun. Contemp. Math. 21 (2019), no. 8, 1850042, 30 pp. ISSN (print): 0219-1997 | ISSN (online): 1793-6683.
 
 
 ## Links 
