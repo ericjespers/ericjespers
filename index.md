@@ -10,7 +10,7 @@ Brussel, Belgium
 * [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=94560)
 * [arXiv](https://arxiv.org/search/?searchtype=author&query=Jespers%2C+E)
 
-## Publications 
+## Publications: papers
 
 ### 2023
 
@@ -85,6 +85,20 @@ equation, Transactions of the American Mathematical Society,  Trans. Amer. Math.
 3. G. Janssens, E. Jespers, D. Temmerman, Free products in the unit group of the integral group ring of a finite group,  Proc. Amer. Math. Soc. 145 (2017), no. 7, 2771--2783.
 
 4.  A. Gordienko, G. Janssens, E. Jespers,  Semigroup graded algebras and  graded pi-exponent, Israel J. Math. 220 (2017), no. 1, 387--452.
+
+## Publications: books
+
+1. E. G. Goodaire, E. Jespers and C. Polcino Milies, Alternative loop rings, North-Holland Mathematics Studies Vol.184, Amsterdam,  1996.
+
+2. E. Jespers and J. Okniński, Noetherian semigroup algebras, Series: Algebra andApplications, Vol. 7, Springer, 2007. Hardcover
+ISBN-10: 1-4020-5809-8 ISBN-13: 978-1-4020-5809-7.
+
+3.  E. Jespers, A. del Rio, Group Ring Groups, Vol 1: Orders and Generic Constructions of Units, Volume I,  De Gruyter, Berlin, 447  pages, 2015.
+ISBN 978-3-11-037278-6, eBook (PDF) ISBN 978-3-11-037294-6, eBook (EPUB), ISBN 978-3-11-038617-2. 2015.
+
+4. E. Jespers, A. del Rio, Group Ring Groups, Vol 2: Structure Theorems of Unit Groups, De Gruyter, Volume II, De Gruyter, Berlin, 217 pages. 2015. 
+ISBN 978-3-11-041149-2, eBook (PDF), ISBN 978-3-11-041150-8, eBook (EPUB), ISBN 978-3-11-041275-8. 
+
 
 
 ## Links 
