@@ -70,4 +70,5 @@ Communications in Contemporary Mathematics (2022) 2250064 (20 pages), DOI: 10.11
 5. David Bachiller, Ferran Cedó, Eric Jespers and Jan Okniński, Asymmetric product of left braces and simplicity; new solutions of the Yang-Baxter equation.  Commun. Contemp. Math. 21 (2019), no. 8, 1850042, 30 pp. ISSN (print): 0219-1997 | ISSN (online): 1793-6683.
 
 
+
 ## Links 
