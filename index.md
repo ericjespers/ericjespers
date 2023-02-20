@@ -9,7 +9,7 @@ Brussel, Belgium
 * [CV](cv.pdf)
 * [MathSciNet](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=94560)
 * [arXiv](https://arxiv.org/search/?searchtype=author&query=Jespers%2C+E)
-* [Orcid]https://orcid.org/0000-0002-2695-7949
+* Orcid https://orcid.org/0000-0002-2695-7949
 
 ## Recent Publications: papers
 
