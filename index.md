@@ -99,7 +99,7 @@ ISBN 978-3-11-037278-6, eBook (PDF) ISBN 978-3-11-037294-6, eBook (EPUB), ISBN 9
 4. E. Jespers, A. del Rio, Group Ring Groups, Vol 2: Structure Theorems of Unit Groups, De Gruyter, Volume II, De Gruyter, Berlin, 217 pages. 2015. 
 ISBN 978-3-11-041149-2, eBook (PDF), ISBN 978-3-11-041150-8, eBook (EPUB), ISBN 978-3-11-041275-8. 
 
-## Ph.D. students supervised
+## Ph.D. students supervised https://www.mathgenealogy.org/id.php?id=67803
 
   1. F. Decruyenaere, 1988-1991, ph.d.:  Divisibility Properties of Rings, doctoral degree awarded January 1991, K.U. Leuven.
   2. M. Clase, 1990-1993, ph.d.: Semigroup graded rings, doctoral degree awarded August 1993, Memorial University of Newfoundland.
