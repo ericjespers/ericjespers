@@ -99,6 +99,23 @@ ISBN 978-3-11-037278-6, eBook (PDF) ISBN 978-3-11-037294-6, eBook (EPUB), ISBN 9
 4. E. Jespers, A. del Rio, Group Ring Groups, Vol 2: Structure Theorems of Unit Groups, De Gruyter, Volume II, De Gruyter, Berlin, 217 pages. 2015. 
 ISBN 978-3-11-041149-2, eBook (PDF), ISBN 978-3-11-041150-8, eBook (EPUB), ISBN 978-3-11-041275-8. 
 
+## Ph.D. students supervised
 
+  1. F. Decruyenaere, 1988-1991, ph.d.:  Divisibility Properties of Rings, doctoral degree awarded January 1991, K.U. Leuven.
+  2. M. Clase, 1990-1993, ph.d.: Semigroup graded rings, doctoral degree awarded August 1993, Memorial University of Newfoundland.
+  3. D. Wang, 1992-1995 , ph.d.: Units of semigroup rings, doctoral degree awarded  August 1995, Memorial University of Newfoundland.
+  4  Q. Wang, 1996-1999, ph.d.: Hereditary semigroup rings and maximal orders, doctoral degree awarded April 2000, Memorial University of Newfoundland.
+  5. A. Dooms (FWO), ph.d.: Units in non-commutative orders, doctoral degree awarded March 2004, VUB.
+  6. I. Goffa (IWT), 2005-2008, ph.d.: Noetherian semigroup algebras and prime maximal orders, doctoral degree awarded April 2008.
+  7. M. H. Shahzamanian, Finite semigroups and their non-nilpotent graphs,  2010-2012, VUB, doctoral degree awarded dec. 2012.
+  8. A. Kiefer, FWO,  Units in Integral Group Rings via Fundamental Domains and Hyperbolic Geometry, doctoral degree awarded May 2014.
+  9. G. Klein, Finitely presented algebras defined by permutation relations, doctoral degree granted October 2014.
+ 10. I. Van Gelder, Group representations: idempotents in group algebras and applications to units, 2010-2015, VUB, doctoral degree awarded March 2015.
+ 11. M. Van Campenhout,Finitely generated algebras defined by homogeneous quadratic monomial relations and their underlying monoids, 2010-2016, VUB,  
+     doctoral degree awarded September 2016.
+ 12. G. Janssens,  Identities of Affine Algebras and their asymptotic behaviour, 2012--2018, VUB, doctoral degree awarded May 19, 2017.
+ 13. A. Van Antwerpen, The algebra of the Yang-Baxter equation,  2016-2020, doctoral degree awarded June 2020.
+ 14. D. Temmerman, Fixed point properties for low rank linear groups over orders and applications to integral group rings, May 2019.
+ 15. C. Verwimp, Set-theoretic solutions of the Yang-Baxter equation and associated algebraic structures, May 2022.
 
 ## Links 
