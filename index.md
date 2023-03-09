@@ -120,4 +120,26 @@ https://www.mathgenealogy.org/id.php?id=67803
  14. D. Temmerman, Fixed point properties for low rank linear groups over orders and applications to integral group rings, May 2019.
  15. C. Verwimp, Set-theoretic solutions of the Yang-Baxter equation and associated algebraic structures, May 2022.
 
-## Links 
+## Post-Doctoral Fellows
+
+  Dr. G. Leal, University of Rio de Janeiro
+  Dr. L. Xavier de Barros, University of Sao Paulo
+  Dr. S.O. Juriaans, University of Sao Paulo
+  Dr. M. Ruiz, University of Cartagena (Spain)
+  Dt. A. Dooms, Vrije Universiteit Brussel
+  Dr. P. Veloso, Universidade Federal Fluminense
+  Dr. A. Konovalov, University of St. Andrews
+  Dr. G. Olteanu, Babes-Bolyai University
+  Dr. F. Eisele, University of Manchester
+  Dr. A. Gordienko, M.V. Lomonosov Moscow State University
+  Dr. A. Bächle
+  Dr. E. Iwaki, Federal University of ABC
+  Dr. M. Caicedo
+  Dr. A. Kiefer, Université du Luxembourg
+  Dr. S. Spenko, Non-commutative geometry, 1 Oct 2017 - 30 Sept 2020.
+  Dr. L. Margolis, ICMAT
+  Dr. A. Kiefer, Université du Luxembourg
+  Dr. Ł. Kubat, Warsaw University
+  Dr.  G. Janssens, FWO, FNRS
+  Dr.  I. Colazzo, University of Exeter
+
