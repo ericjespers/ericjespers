@@ -122,24 +122,23 @@ https://www.mathgenealogy.org/id.php?id=67803
 
 ## Post-Doctoral Fellows
 
-  Dr. G. Leal, University of Rio de Janeiro
-  Dr. L. Xavier de Barros, University of Sao Paulo
-  Dr. S.O. Juriaans, University of Sao Paulo
-  Dr. M. Ruiz, University of Cartagena (Spain)
-  Dt. A. Dooms, Vrije Universiteit Brussel
-  Dr. P. Veloso, Universidade Federal Fluminense
-  Dr. A. Konovalov, University of St. Andrews
-  Dr. G. Olteanu, Babes-Bolyai University
-  Dr. F. Eisele, University of Manchester
-  Dr. A. Gordienko, M.V. Lomonosov Moscow State University
-  Dr. A. Bächle
-  Dr. E. Iwaki, Federal University of ABC
-  Dr. M. Caicedo
-  Dr. A. Kiefer, Université du Luxembourg
-  Dr. S. Spenko, Non-commutative geometry, 1 Oct 2017 - 30 Sept 2020.
-  Dr. L. Margolis, ICMAT
-  Dr. A. Kiefer, Université du Luxembourg
-  Dr. Ł. Kubat, Warsaw University
-  Dr.  G. Janssens, FWO, FNRS
-  Dr.  I. Colazzo, University of Exeter
+  1. Dr. G. Leal, University of Rio de Janeiro
+  2. Dr. L. Xavier de Barros, University of Sao Paulo
+  3. Dr. S.O. Juriaans, University of Sao Paulo
+  4. Dr. M. Ruiz, University of Cartagena (Spain)
+  5. Dr. A. Dooms, Vrije Universiteit Brussel
+  6. Dr. P. Veloso, Universidade Federal Fluminense
+  7. Dr. A. Konovalov, University of St. Andrews
+  8. Dr. G. Olteanu, Babes-Bolyai University
+  9. Dr. F. Eisele, University of Manchester
+  10. Dr. A. Gordienko, M.V. Lomonosov Moscow State University
+  11. Dr. A. Bächle
+  12. Dr. E. Iwaki, Federal University of ABC
+  13. Dr. M. Caicedo
+  14. Dr. A. Kiefer, Université du Luxembourg
+  15. Dr. S. Spenko, Non-commutative geometry, 1 Oct 2017 - 30 Sept 2020.
+  16. Dr. L. Margolis, ICMAT
+  17. Dr. Ł. Kubat, Warsaw University
+  18. Dr. G. Janssens, FWO, FNRS
+  19. Dr. I. Colazzo, University of Exeter
 
