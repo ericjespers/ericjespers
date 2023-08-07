@@ -2,7 +2,7 @@
 
 Emeritus Professor
 
-Vrije Universiteit Brussel  
+Vrije Universiteit Brusselv  
 Faculty of Sciences  
 Department of Mathematics and Data Science  
 Pleinlaan 2, B-1050  
