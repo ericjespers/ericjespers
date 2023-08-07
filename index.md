@@ -13,6 +13,12 @@ Brussel, Belgium
 * [arXiv](https://arxiv.org/search/?searchtype=author&query=Jespers%2C+E)
 * Orcid: https://orcid.org/0000-0002-2695-7949
 
+## Previous Positions
+Memorial University of Newfoundland, Full Professor and University Research Professor (Canada)
+University of Cape Town, Associate Professor (South Africa)
+University of Stellenbosch, Lecurer (South Africa)
+K.U. Leuven. Assistant (Belgium)
+
 ## Recent Publications: papers
 
 ### 2023
