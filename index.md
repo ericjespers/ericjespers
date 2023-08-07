@@ -14,6 +14,13 @@ Brussel, Belgium
 * Orcid: https://orcid.org/0000-0002-2695-7949
 
 ## Previous Positions
+
+Vrije Universiteit Brussel, Full Professor (Belgium)
+
+Vrije Universiteit Brussel, Dean Faculty of Sciences and and Bio-Engineering Sciences (2015-2019) 
+
+Vrije Universiteit Brussel, Head Department of Mathematics (2004-2008)
+
 Memorial University of Newfoundland, Full Professor and University Research Professor (Canada)
 
 University of Cape Town, Associate Professor (South Africa)
