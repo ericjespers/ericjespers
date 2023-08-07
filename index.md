@@ -1,5 +1,6 @@
 # Eric Jespers
 
+Emeritus Professor
 Vrije Universiteit Brussel  
 Faculty of Sciences  
 Department of Mathematics and Data Science  
