@@ -15,8 +15,11 @@ Brussel, Belgium
 
 ## Previous Positions
 Memorial University of Newfoundland, Full Professor and University Research Professor (Canada)
+
 University of Cape Town, Associate Professor (South Africa)
+
 University of Stellenbosch, Lecurer (South Africa)
+
 K.U. Leuven. Assistant (Belgium)
 
 ## Recent Publications: papers
