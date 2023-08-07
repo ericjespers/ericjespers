@@ -19,6 +19,8 @@ Brussel, Belgium
    
 2. Ferran Cedó, Eric Jespers, Lukasz Kubat, Arne Van Antwerpen, Charlotte Verwimp, On various types of nilpotency of the structure monoid and group of a set-theoretic solution of the Yang--Baxter equation, 35 pages, Journal of Pure and Applied Algebra 227 (2023), no. 2, Paper No.107194.
 
+3. G. Janssens, E. Jespers, O. Schnabel, Units of twisted group rings and their correlations to classical group rings, preprint.
+
 ### 2022
 
 1. E. Jespers, A. Van Antwerpen, L. Vendramin, Nilpotency of skew braces and multipermutation solutions of the Yang-Baxter equation,
