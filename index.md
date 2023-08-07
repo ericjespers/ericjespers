@@ -17,7 +17,7 @@ Brussel, Belgium
 
 Vrije Universiteit Brussel, Full Professor (Belgium)
 
-Vrije Universiteit Brussel, Dean Faculty of Sciences and and Bio-Engineering Sciences (2015-2019) 
+Vrije Universiteit Brussel, Dean Faculty of Sciences and Bio-Engineering Sciences (2015-2019) 
 
 Vrije Universiteit Brussel, Head Department of Mathematics (2004-2008)
 
